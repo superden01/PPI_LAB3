@@ -1,0 +1,15 @@
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\bin\Debug\net7.0\ЛАБА3.exe
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\bin\Debug\net7.0\ЛАБА3.deps.json
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\bin\Debug\net7.0\ЛАБА3.runtimeconfig.json
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\bin\Debug\net7.0\ЛАБА3.dll
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\bin\Debug\net7.0\ЛАБА3.pdb
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.AssemblyInfo.cs
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.dll
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\refint\ЛАБА3.dll
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.pdb
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ЛАБА3.genruntimeconfig.cache
+C:\Users\denis\Desktop\ЛАБА3\ЛАБА3\obj\Debug\net7.0\ref\ЛАБА3.dll
